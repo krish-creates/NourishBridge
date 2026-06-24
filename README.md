@@ -1,3 +1,6 @@
+<img width="626" height="626" alt="180560df7ed0193683cdfb2aa1085e49" src="https://github.com/user-attachments/assets/5f4c298d-8836-4e57-935b-40181c14e02d" />
+
+
 ## NourishBridge: Connecting Surplus to Success
 
 **NourishBridge** is a localized, technology-driven platform designed to tackle the dual challenges of hospitality food waste and community food insecurity. By acting as a digital intermediary, the system allows verified restaurants to list surplus, high-quality food and connects them with authenticated welfare organizations like orphanages and shelters.
